@@ -1,6 +1,6 @@
 # Awesome-No-Code-Database
 
-# Top No-Code Development Platform Ecosystem
+## Top No-Code Development Platform Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Visual App Building, Self-Hosted Data Control & AI-Assisted Development*  
