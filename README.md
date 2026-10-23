@@ -96,7 +96,7 @@ From a competitive standpoint, the sector is **moderately fragmented with a barb
 *Self-hosted, transparently licensed alternatives offering data sovereignty, direct SQL access, and zero per-seat tax. Sorted in **descending order by GitHub stargazers count**.*
 
 ### 1. NocoDB
-- **Repo**: [nocodb/nocodb](https://github.com/nocodb/nocodb) [![GitHub stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers)
+- **Repo**: [nocodb/nocodb](https://github.com/nocodb/nocodb) [![GitHub_Stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers)
 - **⚖️ License**: Sustainable Use License 1.0 *(Source-available / Fair-code)*
 - **💾 Storage Engine**: Connects directly to existing **PostgreSQL, MySQL, MariaDB, SQLite, and Microsoft SQL Server** instances.
 - **✨ Overview**: The most popular open-source Airtable alternative. Transforms any existing relational database into an interactive smart spreadsheet grid in seconds. Provides REST APIs, Swagger docs, role-based views, Kanban, Form, and Gallery views.
@@ -105,7 +105,7 @@ From a competitive standpoint, the sector is **moderately fragmented with a barb
 ---
 
 ### 2. PocketBase
-- **Repo**: [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) [![GitHub stars](https://img.shields.io/github/stars/pocketbase/pocketbase?style=social&color=white)](https://github.com/pocketbase/pocketbase/stargazers)
+- **Repo**: [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) [![GitHub_Stars](https://img.shields.io/github/stars/pocketbase/pocketbase?style=social&color=white)](https://github.com/pocketbase/pocketbase/stargazers)
 - **⚖️ License**: MIT *(OSI-approved)*
 - **💾 Storage Engine**: Embedded **SQLite** with real-time WAL mode.
 - **✨ Overview**: An open-source, all-in-one backend packaged into a single lightweight Go binary. Includes an intuitive web admin UI for visual table and schema management, real-time subscriptions, built-in auth, and file storage.
@@ -114,7 +114,7 @@ From a competitive standpoint, the sector is **moderately fragmented with a barb
 ---
 
 ### 3. ToolJet
-- **Repo**: [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) [![GitHub stars](https://img.shields.io/github/stars/ToolJet/ToolJet?style=social&color=white)](https://github.com/ToolJet/ToolJet/stargazers)
+- **Repo**: [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) [![GitHub_Stars](https://img.shields.io/github/stars/ToolJet/ToolJet?style=social&color=white)](https://github.com/ToolJet/ToolJet/stargazers)
 - **⚖️ License**: AGPL-3.0 *(OSI-approved)*
 - **💾 Storage Engine**: Built-in **ToolJet Database** (backed by PostgreSQL) + integrations with 50+ external databases and APIs.
 - **✨ Overview**: Low-code application framework featuring an integrated no-code database. Allows operations teams to visually model tables, build responsive internal tooling dashboards, and trigger background automations.
@@ -123,7 +123,7 @@ From a competitive standpoint, the sector is **moderately fragmented with a barb
 ---
 
 ### 4. Directus
-- **Repo**: [directus/directus](https://github.com/directus/directus) [![GitHub stars](https://img.shields.io/github/stars/directus/directus?style=social&color=white)](https://github.com/directus/directus/stargazers)
+- **Repo**: [directus/directus](https://github.com/directus/directus) [![GitHub_Stars](https://img.shields.io/github/stars/directus/directus?style=social&color=white)](https://github.com/directus/directus/stargazers)
 - **⚖️ License**: BSL-1.1 converting to Apache 2.0
 - **💾 Storage Engine**: Native wrapper for any SQL database (**PostgreSQL, MySQL, SQLite, Oracle, CockroachDB**).
 - **✨ Overview**: Headless data engine that layers a no-code data studio directly over your existing database schemas. Automatically generates dynamic REST and GraphQL endpoints without altering existing tables.
@@ -132,7 +132,7 @@ From a competitive standpoint, the sector is **moderately fragmented with a barb
 ---
 
 ### 5. Budibase
-- **Repo**: [Budibase/budibase](https://github.com/Budibase/budibase) [![GitHub stars](https://img.shields.io/github/stars/Budibase/budibase?style=social&color=white)](https://github.com/Budibase/budibase/stargazers)
+- **Repo**: [Budibase/budibase](https://github.com/Budibase/budibase) [![GitHub_Stars](https://img.shields.io/github/stars/Budibase/budibase?style=social&color=white)](https://github.com/Budibase/budibase/stargazers)
 - **⚖️ License**: GPL-3.0 *(OSI-approved)*
 - **💾 Storage Engine**: Built-in **Budibase DB** (powered by CouchDB/Postgres) + external connections to PostgreSQL, MySQL, MSSQL, Oracle, and REST.
 - **✨ Overview**: Full-stack low-code platform for building forms, internal tools, and administrative workflows. Features auto-generated CRUD screens, user access management, and automated webhooks.
@@ -141,7 +141,7 @@ From a competitive standpoint, the sector is **moderately fragmented with a barb
 ---
 
 ### 6. Teable
-- **Repo**: [teableio/teable](https://github.com/teableio/teable) [![GitHub stars](https://img.shields.io/github/stars/teableio/teable?style=social&color=white)](https://github.com/teableio/teable/stargazers)
+- **Repo**: [teableio/teable](https://github.com/teableio/teable) [![GitHub_Stars](https://img.shields.io/github/stars/teableio/teable?style=social&color=white)](https://github.com/teableio/teable/stargazers)
 - **⚖️ License**: AGPL-3.0 *(OSI-approved)*
 - **💾 Storage Engine**: **PostgreSQL Native** — every field is a real physical database column (no JSON blobs).
 - **✨ Overview**: Ultra-fast spreadsheet-database hybrid capable of querying millions of rows without latency. Integrates built-in SQL query editors, AI agent sandboxes, an App Builder, and real-time collaborative editing.
@@ -150,7 +150,7 @@ From a competitive standpoint, the sector is **moderately fragmented with a barb
 ---
 
 ### 7. APITable
-- **Repo**: [apitable/apitable](https://github.com/apitable/apitable) [![GitHub stars](https://img.shields.io/github/stars/apitable/apitable?style=social&color=white)](https://github.com/apitable/apitable/stargazers)
+- **Repo**: [apitable/apitable](https://github.com/apitable/apitable) [![GitHub_Stars](https://img.shields.io/github/stars/apitable/apitable?style=social&color=white)](https://github.com/apitable/apitable/stargazers)
 - **⚖️ License**: AGPL-3.0 *(OSI-approved)*
 - **💾 Storage Engine**: MySQL / MariaDB backend with Redis cache.
 - **✨ Overview**: Comprehensive open-source visual database platform providing an Airtable-like interface, real-time collaboration via WebSockets, unlimited records on self-hosted instances, and REST APIs.
@@ -159,7 +159,7 @@ From a competitive standpoint, the sector is **moderately fragmented with a barb
 ---
 
 ### 8. Grist
-- **Repo**: [gristlabs/grist-core](https://github.com/gristlabs/grist-core) [![GitHub stars](https://img.shields.io/github/stars/gristlabs/grist-core?style=social&color=white)](https://github.com/gristlabs/grist-core/stargazers)
+- **Repo**: [gristlabs/grist-core](https://github.com/gristlabs/grist-core) [![GitHub_Stars](https://img.shields.io/github/stars/gristlabs/grist-core?style=social&color=white)](https://github.com/gristlabs/grist-core/stargazers)
 - **⚖️ License**: Apache 2.0 *(OSI-approved)*
 - **💾 Storage Engine**: SQLite with relational schema compilation.
 - **✨ Overview**: Combines spreadsheet cell formulas with true database schemas. Formulations use standard **Python syntax** rather than restrictive proprietary macro languages. Features unmatched row-level and column-level permission rules.
@@ -168,7 +168,7 @@ From a competitive standpoint, the sector is **moderately fragmented with a barb
 ---
 
 ### 9. Rowy
-- **Repo**: [buildship-ai/rowy](https://github.com/buildship-ai/rowy) [![GitHub stars](https://img.shields.io/github/stars/buildship-ai/rowy?style=social&color=white)](https://github.com/buildship-ai/rowy/stargazers)
+- **Repo**: [buildship-ai/rowy](https://github.com/buildship-ai/rowy) [![GitHub_Stars](https://img.shields.io/github/stars/buildship-ai/rowy?style=social&color=white)](https://github.com/buildship-ai/rowy/stargazers)
 - **⚖️ License**: Apache 2.0 *(OSI-approved)*
 - **💾 Storage Engine**: Google Firestore and Firebase backend.
 - **✨ Overview**: Visual spreadsheet UI designed specifically for Google Cloud Firestore. Lets developers write Cloud Functions and automated triggers in Node.js directly within the spreadsheet cells.
@@ -177,7 +177,7 @@ From a competitive standpoint, the sector is **moderately fragmented with a barb
 ---
 
 ### 10. Baserow
-- **Repo**: [baserow/baserow](https://github.com/baserow/baserow) [![GitHub stars](https://img.shields.io/github/stars/baserow/baserow?style=social&color=white)](https://github.com/baserow/baserow/stargazers)
+- **Repo**: [baserow/baserow](https://github.com/baserow/baserow) [![GitHub_Stars](https://img.shields.io/github/stars/baserow/baserow?style=social&color=white)](https://github.com/baserow/baserow/stargazers)
 - **⚖️ License**: MIT *(OSI-approved core)*
 - **💾 Storage Engine**: Dedicated **PostgreSQL** backend with Django and Redis.
 - **✨ Overview**: The cleanest, most faithful open-source drop-in replacement for Airtable. Includes unlimited rows on self-hosted instances, a visual Application Builder for publishing custom web apps, and real-time collaboration.
@@ -186,7 +186,7 @@ From a competitive standpoint, the sector is **moderately fragmented with a barb
 ---
 
 ### 11. Mathesar
-- **Repo**: [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar) [![GitHub stars](https://img.shields.io/github/stars/mathesar-foundation/mathesar?style=social&color=white)](https://github.com/mathesar-foundation/mathesar/stargazers)
+- **Repo**: [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar) [![GitHub_Stars](https://img.shields.io/github/stars/mathesar-foundation/mathesar?style=social&color=white)](https://github.com/mathesar-foundation/mathesar/stargazers)
 - **⚖️ License**: GPL-3.0 *(OSI-approved)*
 - **💾 Storage Engine**: Pure **PostgreSQL** schema manager.
 - **✨ Overview**: An open-source web interface that provides direct spreadsheet-like interaction with PostgreSQL schemas, tables, and views without any proprietary abstraction layer.
@@ -195,7 +195,7 @@ From a competitive standpoint, the sector is **moderately fragmented with a barb
 ---
 
 ### 12. Undb
-- **Repo**: [undb-io/undb](https://github.com/undb-io/undb) [![GitHub stars](https://img.shields.io/github/stars/undb-io/undb?style=social&color=white)](https://github.com/undb-io/undb/stargazers)
+- **Repo**: [undb-io/undb](https://github.com/undb-io/undb) [![GitHub_Stars](https://img.shields.io/github/stars/undb-io/undb?style=social&color=white)](https://github.com/undb-io/undb/stargazers)
 - **⚖️ License**: AGPL-3.0 *(OSI-approved)*
 - **💾 Storage Engine**: SQLite / Node.js.
 - **✨ Overview**: A lightweight, private, self-hosted no-code database with an aesthetic modern interface, instant REST APIs, and multi-view configurations.
@@ -204,7 +204,7 @@ From a competitive standpoint, the sector is **moderately fragmented with a barb
 ---
 
 ### 13. SeaTable
-- **Repo**: [seatable/seatable](https://github.com/seatable/seatable) [![GitHub stars](https://img.shields.io/github/stars/seatable/seatable?style=social&color=white)](https://github.com/seatable/seatable/stargazers)
+- **Repo**: [seatable/seatable](https://github.com/seatable/seatable) [![GitHub_Stars](https://img.shields.io/github/stars/seatable/seatable?style=social&color=white)](https://github.com/seatable/seatable/stargazers)
 - **⚖️ License**: Community Edition *(Proprietary components in Enterprise)*
 - **💾 Storage Engine**: MySQL backend with Seafile storage.
 - **✨ Overview**: High-performance collaborative spreadsheet-database supporting millions of records with JavaScript / Python script automations, SQL queries, and visual forms.
@@ -213,7 +213,7 @@ From a competitive standpoint, the sector is **moderately fragmented with a barb
 ---
 
 ### 14. SoupTable
-- **Repo**: [souptable-org/Souptable](https://github.com/souptable-org/Souptable) [![GitHub stars](https://img.shields.io/github/stars/souptable-org/Souptable?style=social&color=white)](https://github.com/souptable-org/Souptable/stargazers)
+- **Repo**: [souptable-org/Souptable](https://github.com/souptable-org/Souptable) [![GitHub_Stars](https://img.shields.io/github/stars/souptable-org/Souptable?style=social&color=white)](https://github.com/souptable-org/Souptable/stargazers)
 - **⚖️ License**: MIT *(OSI-approved)*
 - **💾 Storage Engine**: PostgreSQL 16 + Next.js 16 + Payload CMS.
 - **✨ Overview**: An emerging spreadsheet-database mapping fields to physical PostgreSQL columns with database-level Row-Level Security (RLS) policies, AES-256-GCM encryption, and 1-Click Multi-Tenant SaaS isolation.
@@ -241,10 +241,10 @@ Contributions from the community keep this directory accurate, neutral, and fres
 2. 🌿 **Create a feature branch**: `git checkout -b feature/add-new-tool`
 3. 📝 **Add or update an entry** in `README.md`:
    - Follow the established tabular format for SaaS platforms (accurate starting tier, exact free plan limits, and revenue/valuation).
-   - Follow the badge format for open-source projects (`[![GitHub stars](https://img.shields.io/github/stars/<owner>/<repo>?style=social&color=white)](https://github.com/<owner>/<repo>/stargazers)`).
+   - Follow the badge format for open-source projects (`[![GitHub_Stars](https://img.shields.io/github/stars/<owner>/<repo>?style=social&color=white)](https://github.com/<owner>/<repo>/stargazers)`).
 4. ✅ **Ensure sorted order**:
    - SaaS table sorted descending by company size.
-   - Open-source projects sorted descending by GitHub star count.
+   - Open-source projects sorted descending by GitHub Stars_Count.
 5. 🚀 **Submit a Pull Request** with a descriptive summary of your changes.
 
 ---
