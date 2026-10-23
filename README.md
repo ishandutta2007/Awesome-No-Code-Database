@@ -2,7 +2,7 @@
 
 # Awesome-No-Code-Database
 
-# Top No-Code Database Tools Ecosystem
+## Top No-Code Database Tools Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on PostgreSQL-Native Storage, AI-Assisted App Building & Self-Hosted Data Control*  
